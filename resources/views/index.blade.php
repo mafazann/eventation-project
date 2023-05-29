@@ -280,7 +280,7 @@
                             </h4>
                             <p class="text-sm text-gray-600">Our most popular package is the Pro Plan which gives you
                                 access to the
-                                following:</p>
+                                following cuy </p>
                         </div>
                         <div class="flex justify-start pl-12 mt-8 sm:justify-start">
                             <ul>
